@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    text-align: center;
+    padding: 50px 0;
+    background-image: url('https://res.cloudinary.com/dh6ipg8bj/image/upload/v1735820476/Purple_and_White_Modern_Computer_Class_Google_Classroom_Header_ziwi71.png');
+    background-size: cover;
+    background-position: top;
+    color: #fff;
+    height: 40vh;
+    overflow: hidden;
+  }
+  hr {
+    opacity: 0;
+  }
+  #saber-mas {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  #saber-mas h1 {
+  
+    font-family: "Barrio", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 64px;
+    margin: 0;
+    margin-top: 10px;
+  }
+
+  #saber-mas h1 span {
+    color: #04d9ff;
+  }
+  #saber-mas button {   
+    background-color: #04d9ff;
+    color:black;
+    margin-top: 20px;
+}
+  h2 {
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+  }
+  p {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    }
+
+  section {
+    padding: 50px 20px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: black;
+    font-size: 1em;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+  }
+
+  section#form {
+    background-color: #05025d;
+  }
+
+  form {
+    margin: 0 auto;
+    max-width: 350px;
+    text-align: left;
+  }
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+  }
+  form button {
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    margin-top: 20px;
+
+  }
+  footer {
+    text-align: center;
+    background-color: #000000;
+    color: #04d9ff;
+    padding: 0;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+  }
+
+
+  
